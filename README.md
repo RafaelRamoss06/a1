@@ -1,2 +1,5 @@
-# a1
-Avaliçao a1
+EVENTO : No repositorio estão as duas atividades. A pasta "EVENTO", está a atividade de Estruturas Condicionais, tem como objetivo fazer uma validação para a entrada de um evento, no qual é obrigatotio ter entre 18 e 49 anos. Caso sua idade seja maior ou menor que a necessaria, você não poderá ir ao nosso evento.
+
+LISTA : A segunda atividade tem como objetivo armazenar o nome de alunos e exibir a qualquer momento em que for executado. Para adicionar um nome, é necessario que coloque-o na lista em .txt (alunos.txt). Ao ser executado, o codigo exibira o nome dos alunos no qual foi inserido na lista.
+
+A E/S, pode ser analisada na entrada de dados tanto da atividade "LISTA", quanto da atividade "EVENTO", com a função input na qual o usuario determinao valor das variaveis (no caso da atividade "LISTA", a estrada está no arquivo "alunos.txt", no qual o usuario determina o nome dos alunos que devem estar presentes na lista. A saída pode ser analisada com a impresão para o usuario com as informações.
